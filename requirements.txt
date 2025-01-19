@@ -5,8 +5,6 @@ huggingface-hub
 bitsandbytes
 opencv-python
 PIL
-torch
-torchvision
 streamlit
 numpy
 pandas
