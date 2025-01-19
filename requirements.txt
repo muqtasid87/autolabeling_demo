@@ -3,7 +3,6 @@ torch==2.2.0+cpu
 Pillow
 transformers
 timm
-auto-gptq
 huggingface-hub
 bitsandbytes
 opencv-python
