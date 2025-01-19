@@ -1,10 +1,11 @@
+torch>=1.13.0
+Pillow
 transformers
 timm
 auto-gptq
 huggingface-hub
 bitsandbytes
 opencv-python
-PIL
 streamlit
 numpy
 pandas
