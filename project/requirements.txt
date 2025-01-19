@@ -1,0 +1,15 @@
+transformers
+timm
+auto-gptq
+huggingface-hub
+bitsandbytes
+opencv-python
+PIL
+torch
+torchvision
+streamlit
+numpy
+pandas
+matplotlib
+gradio
+
